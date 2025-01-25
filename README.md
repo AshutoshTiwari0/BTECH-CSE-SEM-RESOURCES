@@ -60,4 +60,9 @@
 |          |                      | - [Numerical Differentiation and Integration](https://youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC&si=pJALCbaCmwQHidWM)   |
 |          |                      | - [Probability](https://youtube.com/playlist?list=PLU6SqdYcYsfJPF-4HphQQ8OceDtqhlSW8&si=0kTbZCSodFi8iOGJ)   |
 |          |                      | - [Curve Fitting (Initial 10-12 videos of this playlist)](https://youtube.com/playlist?list=PL0c0N7xv8s05PwRatWCCTiDS3_7V_9O8a&si=mMbrpXmC-HdyJ5Xn)      |
+| Sem 5    | 1.DBMS               | - [One shot](https://youtu.be/FchQ6wZVqsA?si=fbA0v1xDIZI3FmC8)|
+|          | 2.Computer Networks      | - [Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)|
+|          |                      | - [Cisco Notes](https://drive.google.com/drive/u/0/folders/1gP4VSoxJz7kj3Q32Sk96J9UgMBTbUTrl)|
+|          |3. Design Of Algorithms| - [Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)|
+
 
