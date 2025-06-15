@@ -64,5 +64,18 @@
 |          | 2.Computer Networks      | - [Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)|
 |          |                      | - [Cisco Notes](https://drive.google.com/drive/u/0/folders/1gP4VSoxJz7kj3Q32Sk96J9UgMBTbUTrl)|
 |          |3. Design Of Algorithms| - [Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)|
-
+| Sem 6    | 1.Compiler Construction               | - [Playlist](https://youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr&si=eGMbmtvspj5r81BV)|
+|          |                      | - [One Shot](https://youtu.be/OQCjakjCJu4?si=c52pxsCL63CfunZk)|
+|          | 2.Artificial Intelligence      | - [Playlist **Only Module 1**](https://youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe&si=wkwH-F_0I2r3dJgS)|
+|          |                      | - [Mod 2 ](https://youtu.be/yiXAmkimZRQ?si=jBJw112RC0IvYZ3O)|
+|          |                      | - [Mod 3 ](https://youtube.com/playlist?list=PLPIwNooIb9vimsumdWeKF3BRzs9tJ-_gy&si=GVN_jKbvYu2MZ1WG)|
+|          |                      | - [Mod 4 + Mod 5 + Uncovered Topics ](https://youtube.com/playlist?list=PLv_F6LJStjV27M7OU4i-YaW2wgzF5M00A&si=kxXBZvLk1iU2yCae)|
+|          |                      | - [ALL MODULES PPT ](https://drive.google.com/drive/folders/1kv4tcIn5oyaulAzv8D8kQKj0M2CmOcXP?usp=sharing)|
+|          | 3. Software Engineering| [One Shot](https://youtu.be/NlLM3sVF8wY?si=wWq3g4VOkySLnZkW)|
+|          |                        | [Mod 5 UML+ Alternative Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2&si=WJH7_FV2GAcTuXT5)|
+|          | 4. Specialisation      | [GEN AI OR DEEP LEARNING](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=cqPgozzWlAaoRJ9J)|
+|           |                       | [Cloud Computing Practioner One shot](https://youtu.be/N4sJj-SxX00?si=VftDgBB4j0H-vfjM)|
+|           |                        | [Cloud Computing Practioner Notes](https://drive.google.com/file/d/1Uh00ER-TVbAiyt2LFNnWdsEz44ZTnMrc/view?usp=sharing)|
+|          |5. Professional Ethics  |[Notes](https://drive.google.com/drive/folders/1zgIeWHE2unNmLQM0y_rk0OOM5DtFwA0B?usp=sharing)|
+|          |6.Programming & Employability Skills for Computer Engineers| [Notes](https://drive.google.com/drive/folders/1hBOA7S_oi0tyifzZYKSnIE922P4ZIje0?usp=sharing)|
 
