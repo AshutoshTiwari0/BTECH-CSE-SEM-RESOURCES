@@ -84,4 +84,14 @@
 |          | 2.Machine Learning Theory and Applications      | - [Playlist](https://youtube.com/playlist?list=PLv_F6LJStjV1Tl5jxoSlMCHqOzH9nO4BV&si=iXO7Zx1BrRr1_M1b)|
 |          | 3. Object Oriented System Design|- [Playlist](https://youtube.com/playlist?list=PLv_F6LJStjV1qPwFTClKVQyqVAOnum3m5&si=nSqS4CcQfPMPEQdg)|
 
+📌 Note
 
+Semester 8 may not be included, as it does not contain any major subjects.
+This repository currently covers all relevant material up to Semester 7.
+
+If this repository helped you in any way, please consider starring ⭐ or forking 🍴 it—it really helps!
+
+As I have now graduated, this repository will no longer receive updates.
+However, you’re more than welcome to fork it and maintain your own version or extend it further.
+
+Thank you for checking it out and happy learning! 🚀
