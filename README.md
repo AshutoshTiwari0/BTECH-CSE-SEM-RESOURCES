@@ -78,4 +78,10 @@
 |           |                        | [Cloud Computing Practioner Notes](https://drive.google.com/file/d/1Uh00ER-TVbAiyt2LFNnWdsEz44ZTnMrc/view?usp=sharing)|
 |          |5. Professional Ethics  |[Notes](https://drive.google.com/drive/folders/1zgIeWHE2unNmLQM0y_rk0OOM5DtFwA0B?usp=sharing)|
 |          |6.Programming & Employability Skills for Computer Engineers| [Notes](https://drive.google.com/drive/folders/1hBOA7S_oi0tyifzZYKSnIE922P4ZIje0?usp=sharing)|
+| Sem 7    | 1.Software Project Management               | - [Playlist](https://www.youtube.com/playlist?list=PLh11ucJN276KHr_DR1Ok-EWYfSwtaQXND)|
+|          |                      | - [Notes](https://drive.google.com/file/d/1NVU6DeO3FLxI0yUKvcszM-7wV04FU3A_/view?usp=sharing)|
+|          |                      | - [PERT + CPM Numericals](https://youtube.com/playlist?list=PLEjRWorvdxL6LnWXJxnFB_9DXHhUxJ3dk&si=Y1kx6MCVbTiyMUp2)|
+|          | 2.Machine Learning Theory and Applications      | - [Playlist](https://youtube.com/playlist?list=PLv_F6LJStjV1Tl5jxoSlMCHqOzH9nO4BV&si=iXO7Zx1BrRr1_M1b)|
+|          | 3. Object Oriented System Design|- [Playlist](https://youtube.com/playlist?list=PLv_F6LJStjV1qPwFTClKVQyqVAOnum3m5&si=nSqS4CcQfPMPEQdg)|
+
 
